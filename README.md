@@ -1,2 +1,2 @@
 # CV2022
-https://dmitan.github.io/rsschool-cv/cv
+https://dmitan.github.io/cv2022/cv
