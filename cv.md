@@ -10,8 +10,8 @@
 * **Discord:** DmitaN#5034
 * [LinkedIn](https://www.linkedin.com/in/aleksandr-dmitriev-901a161aa/ "my profile on linkedIn")
 
-### My Skils
- developer skill:
+### My Skills
+ developer skills:
 * HTML
 * CSS
 * JavaScript 
@@ -22,11 +22,11 @@
 * ASP.NET MVC
 
  technical skills:
- * Experienced IT infrastructure building from scratch.
- * Virtualization Microsoft - HyperV and HPE
+ * Experienced in IT infrastructure building from scratch.
+ * Virtualization Microsoft - HyperV and HPE.
  * Building SAN networks. LAN Network up to 3000 divices.
- * Configuring of backup systems based on Veeam
- * Implementation of the ITSM Service Desk and other support Microsoft services (Exchange mail service, Skype for Business) and products
+ * Configuring of backup systems based on Veeam.
+ * Implementation of the ITSM Service Desk and support Microsoft services (Exchange mail service, Skype for Business) and other products.
  * Experienced in MSSQL, SQLlite, MySQL, PostgreSQL.
 
 ### links to my code on GitHub
@@ -38,14 +38,14 @@
 * [project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)](https://dmitan.github.io/codejam/ "project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)")
 ### My Education
 * I graduated from the Ural State Mining University in Yekaterinburg with a degree in Automated Information Processing and Management Systems in 2010.
-* I am continuing my training on the Skillbox platform as a frontend developer now. And I'm also starting to study at RS School in the same domain.
+* I continue studying on the Skillbox platform as a frontend developer now. I continue studying English Javascript at RS School by EPAM in the same domain.
 
 ### My English
  * My curent level English - Intermediate 
- * I am continuing to learn English on the Skyeng platform
+ * I continue learning English on Skyeng platform
  
 ### My Certificates
-* [Javascript Frontend developer - THE ROLLING SCOPES SCHOOL by EPAM. I finished course on the 1 place](https://app.rs.school/certificate/3sxlhy2s "Javascript Frontend developer - THE ROLLING SCOPES SCHOOL")
+* [Javascript Frontend developer - THE ROLLING SCOPES SCHOOL by EPAM. - I finished course on the 1 place](https://app.rs.school/certificate/3sxlhy2s "Javascript Frontend developer - THE ROLLING SCOPES SCHOOL")
 * [Web technologies](https://stepik.org/certificate/7592246ebd36c03d19fc00f904a92afdc3ed3cf8.pdf "Web technologies")
 * [Python basic](https://stepik.org/certificate/7aac98227e1374fe7f2cf9c1fd3e7e4b89321182.pdf "Python basic")
 * [Python Programming](https://stepik.org/certificate/241a23e8374bcb41306f1f488ba7ef13675bf142.pdf "Python Programming")
