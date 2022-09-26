@@ -38,14 +38,14 @@
 * [project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)](https://dmitan.github.io/codejam/ "project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)")
 ### My Education
 * I graduated from the Ural State Mining University in Yekaterinburg with a degree in Automated Information Processing and Management Systems in 2010.
-* I continue my education on Skillbox platform as a frontend developer now. I also studying Javascript frontend developer at RS School by EPAM in the same domain.
+* I continue my education on Skillbox platform as a frontend developer now. I also study JavaScript at RS School by EPAM.
 
 ### My English
  * My curent level English - Intermediate 
  * I continue learning English on Skyeng platform
  
 ### My Certificates
-* [Javascript Frontend developer - THE ROLLING SCOPES SCHOOL by EPAM. - I finished course on the 1 place](https://app.rs.school/certificate/3sxlhy2s "Javascript Frontend developer - THE ROLLING SCOPES SCHOOL")
+* [JavaScript Frontend developer - THE ROLLING SCOPES SCHOOL by EPAM. - I finished course on the 1 place](https://app.rs.school/certificate/3sxlhy2s "Javascript Frontend developer - THE ROLLING SCOPES SCHOOL")
 * [Web technologies](https://stepik.org/certificate/7592246ebd36c03d19fc00f904a92afdc3ed3cf8.pdf "Web technologies")
 * [Python basic](https://stepik.org/certificate/7aac98227e1374fe7f2cf9c1fd3e7e4b89321182.pdf "Python basic")
 * [Python Programming](https://stepik.org/certificate/241a23e8374bcb41306f1f488ba7ef13675bf142.pdf "Python Programming")
