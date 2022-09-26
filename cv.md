@@ -23,6 +23,14 @@ I have been in IT for more than 12 years. I have experience in developing deskto
 * C#
 * Python basic
 
+ technical skills:
+ * ASP.NET MVC
+ * experience MSSQL, SQLlite, MySQL, PostgreSQL.
+ * Experience in creating IT infrastructure from the beginning.
+ * Virtualization Microsoft - HyperV and HPE
+ * Creating SAN networks
+ * Planning and configuring backup systems Veeam
+
 ### links to my code on GitHub
 * [project Evklid (HTML/CSS/JS)](https://dmitan.github.io/evklid "project Evklid (HTML/CSS/JS)")
 * [project Laggona (HTML/CSS)](https://dmitan.github.io/lagoona/ "project Lagoona (HTML/CSS)")
@@ -39,5 +47,12 @@ I have been in IT for more than 12 years. I have experience in developing deskto
  * I am continuing to learn English on the Skyeng platform
  
 ### My Certificates
-* [Javascript Frontend developer - THE ROLLING SCOPES SCHOOL ](https://app.rs.school/certificate/3sxlhy2s "Javascript Frontend developer - THE ROLLING SCOPES SCHOOL")
-* [Python basic o](https://stepik.org/certificate/7aac98227e1374fe7f2cf9c1fd3e7e4b89321182.pdf "Javascript Frontend developer - THE ROLLING SCOPES SCHOOL")
+* [Javascript Frontend developer - THE ROLLING SCOPES SCHOOL](https://app.rs.school/certificate/3sxlhy2s "Javascript Frontend developer - THE ROLLING SCOPES SCHOOL")
+* [Web technologies](https://stepik.org/certificate/7592246ebd36c03d19fc00f904a92afdc3ed3cf8.pdf "Web technologies")
+* [Python basic](https://stepik.org/certificate/7aac98227e1374fe7f2cf9c1fd3e7e4b89321182.pdf "Python basic")
+* [Python Programming](https://stepik.org/certificate/241a23e8374bcb41306f1f488ba7ef13675bf142.pdf "Python Programming")
+* [Jira basic](https://stepik.org/certificate/4578656528dd86719fcdca372ec5d93f8c387ed0.pdf "Jira basic")
+* [Project and Product management basic](https://udemy-certificate.s3.amazonaws.com/pdf/UC-75e5b549-2457-4492-a173-d1dae26c2dab.pdf "Project and Product management basic")
+* [Designing in C#](https://stepik.org/certificate/08e679650b25b7a90bbf043a0a5e4eb541586e05.pdf "Designing in C#")
+* [Certificate-MS.png](https://postimg.cc/fk9yJ94J)
+
