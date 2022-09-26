@@ -22,15 +22,15 @@ I have been in IT for more than 12 years. I have experience in developing deskto
 * VS Code, IntelliJ IDEA
 * C#
 * Python basic
+* ASP.NET MVC
 
  technical skills:
- * ASP.NET MVC
- * experience MSSQL, SQLlite, MySQL, PostgreSQL.
  * Experience in creating IT infrastructure from the beginning.
  * Virtualization Microsoft - HyperV and HPE
  * Creating SAN networks
  * Planning and configuring backup systems Veeam
  * Implementation of the ITSM Service Desk and other Microsoft services and products
+ * Experience MSSQL, SQLlite, MySQL, PostgreSQL.
 
 ### links to my code on GitHub
 * [project Evklid (HTML/CSS/JS)](https://dmitan.github.io/evklid "project Evklid (HTML/CSS/JS)")
