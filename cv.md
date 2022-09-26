@@ -30,6 +30,7 @@ I have been in IT for more than 12 years. I have experience in developing deskto
  * Virtualization Microsoft - HyperV and HPE
  * Creating SAN networks
  * Planning and configuring backup systems Veeam
+ * Implementation of the ITSM Service Desk and other Microsoft services and products
 
 ### links to my code on GitHub
 * [project Evklid (HTML/CSS/JS)](https://dmitan.github.io/evklid "project Evklid (HTML/CSS/JS)")
@@ -54,5 +55,6 @@ I have been in IT for more than 12 years. I have experience in developing deskto
 * [Jira basic](https://stepik.org/certificate/4578656528dd86719fcdca372ec5d93f8c387ed0.pdf "Jira basic")
 * [Project and Product management basic](https://udemy-certificate.s3.amazonaws.com/pdf/UC-75e5b549-2457-4492-a173-d1dae26c2dab.pdf "Project and Product management basic")
 * [Designing in C#](https://stepik.org/certificate/08e679650b25b7a90bbf043a0a5e4eb541586e05.pdf "Designing in C#")
-* [Certificate-MS.png](https://postimg.cc/fk9yJ94J)
+* [Certificate-MS programming in C#](https://postimg.cc/fk9yJ94J)
+* [Certificate Specialist center - programming in C#](https://postimg.cc/3dWkYc8Q)
 
