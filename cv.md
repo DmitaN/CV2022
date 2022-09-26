@@ -38,7 +38,7 @@
 * [project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)](https://dmitan.github.io/codejam/ "project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)")
 ### My Education
 * I graduated from the Ural State Mining University in Yekaterinburg with a degree in Automated Information Processing and Management Systems in 2010.
-* I continue studying on the Skillbox platform as a frontend developer now. I continue studying English Javascript at RS School by EPAM in the same domain.
+* I continue my education on Skillbox platform as a frontend developer now. I also studying Javascript frontend developer at RS School by EPAM in the same domain.
 
 ### My English
  * My curent level English - Intermediate 
