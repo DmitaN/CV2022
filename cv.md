@@ -20,6 +20,7 @@
 * C#
 * Python basic
 * ASP.NET MVC
+* Use Enterprise Search for project on Angular
 
  technical skills:
  * Experienced in IT infrastructure building from scratch.
