@@ -24,7 +24,7 @@
  technical skills:
  * Experienced in IT infrastructure building from scratch.
  * Virtualization Microsoft - HyperV and HPE.
- * Building SAN networks. LAN Network up to 3000 divices.
+ * Building SAN networks. LAN Network up to 3000 devices.
  * Configuring of backup systems based on Veeam.
  * Implementation of the ITSM Service Desk and support Microsoft services (Exchange mail service, Skype for Business) and other products.
  * Experienced in MSSQL, SQLlite, MySQL, PostgreSQL.
