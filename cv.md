@@ -15,11 +15,11 @@
 * HTML
 * CSS
 * JavaScript 
+* C#
+* ASP.NET MVC
+* Python basic
 * Git / GitHub / Gitlab
 * VS Code, IntelliJ IDEA
-* C#
-* Python basic
-* ASP.NET MVC
 * Use ElsaticSearch for project on Angular
 
  technical skills:
