@@ -37,6 +37,7 @@
 * [project Travel for rs-school by EPAM (HTML/CSS/JS)](https://dmitan.github.io/travel/ "project Travel for rs-school by EPAM (HTML/CSS/JS)")
 * [project Momentum for rs-school by EPAM (HTML/CSS/JS)](https://dmitan.github.io/momentum/ "project Momentum for rs-school by EPAM (HTML/CSS/JS)")
 * [project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)](https://dmitan.github.io/codejam/ "project Helper for desk game for rs-school by EPAM (HTML/CSS/JS)")
+
 ### My Education
 * I graduated from the Ural State Mining University in Yekaterinburg with a degree in Automated Information Processing and Management Systems in 2010.
 * I continue my education on Skillbox platform as a frontend developer now. I also study JavaScript at RS School by EPAM.
