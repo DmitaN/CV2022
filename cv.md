@@ -1,6 +1,6 @@
 # Aleksandr Dmitriev
 ***
-#### JavaScript Frontend Developer
+#### Angular Frontend Developer
 ***
 
 ### Contact information
@@ -15,6 +15,7 @@
 * HTML
 * CSS
 * JavaScript 
+* TypeScript
 * C#
 * ASP.NET MVC
 * Python basic
